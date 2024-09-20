@@ -1,0 +1,14 @@
+{
+  "name": "s3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "upload": "node main.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1641.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
